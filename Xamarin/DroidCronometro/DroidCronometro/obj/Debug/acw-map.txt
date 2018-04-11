@@ -1,0 +1,4 @@
+DroidCronometro.MainActivity, DroidCronometro;md58a7b567dde1777b1b6eb00c009b2bd96.MainActivity
+DroidCronometro.MainActivity, DroidCronometro, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a7b567dde1777b1b6eb00c009b2bd96.MainActivity
+DroidCronometro.MainActivity;md58a7b567dde1777b1b6eb00c009b2bd96.MainActivity
+droidcronometro.MainActivity;md58a7b567dde1777b1b6eb00c009b2bd96.MainActivity
